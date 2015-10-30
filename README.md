@@ -6,5 +6,5 @@
 4. paste this into a terminal:
 
 ```bash
-curl -s https://raw.githubusercontent.com/brianswisher/shipit/master/redo.sh | bash
+curl -s https://raw.githubusercontent.com/brianswisher/redo/master/redo.sh | bash
 ```
