@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
 redo() {
-  git checkout `pbpaste`
+  echo ${BRANCH}
+  # git checkout `pbpaste`
+
   # git checkout master
   # git fetch origin
   # git pull
