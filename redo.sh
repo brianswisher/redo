@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 redo() {
-  echo ${BRANCH}
+  echo ${BRANCH}_clone
   # git checkout `pbpaste`
 
   # git checkout master
